@@ -18,3 +18,4 @@
 ## Tools
 
 - https://partyrock.aws/
+- https://partyrock.aws/u/alabarga/rCbixX175/SQL-Query-Composer
