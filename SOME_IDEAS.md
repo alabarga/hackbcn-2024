@@ -19,3 +19,7 @@
 
 - https://partyrock.aws/
 - https://partyrock.aws/u/alabarga/rCbixX175/SQL-Query-Composer
+
+## Models
+
+- https://huggingface.co/projecte-aina/aguila-7b
