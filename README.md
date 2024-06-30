@@ -12,4 +12,12 @@ DocLingo is an innovative app designed to bridge the communication gap between h
 ## Data
 - https://zenodo.org/records/7614764
 
+## Slides
+- https://docs.google.com/presentation/d/1nSeTjMvAzp2hQKKlFSbaKfW3_K9G95MyhuRO4QniKqw/edit#slide=id.g2e93379d1b9_0_261
+
+
+
+*Please note that this project is in its MVP stage.*
+
+
 
