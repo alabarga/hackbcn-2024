@@ -26,8 +26,8 @@
 ## 📁 Data
 
 In order to train the models and populate the database, we used the following datasources:
-- Medical Notes: https://zenodo.org/records/7614764
-- Structure Data Sythea Project: https://synthetichealth.github.io/synthea/
+- Medical Notes (in spanish): https://zenodo.org/records/7614764
+- Structures Data Sythea Project (syhthetic data): https://synthetichealth.github.io/synthea/
 
 ---
 
