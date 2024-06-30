@@ -1,0 +1,40 @@
+[
+    {
+        "question": "Can you provide information about the patient with the number 8099577122802309611 between November 1, 2000, and January 1, 2020?", 
+        "response_sql": [
+            { "condition_start_date": "2015-03-31", "condition_end_date": "2015-03-31", "concept_name": "Acute myeloid leukemia, disease" },
+            { "condition_start_date": "2015-03-31", "condition_end_date": "2015-03-31", "concept_name": "Febrile neutropenia" },
+            { "condition_start_date": "2015-03-31", "condition_end_date": "2015-03-31", "concept_name": "Bacteremia" },
+            { "condition_start_date": "2015-10-29", "condition_end_date": "2015-11-06", "concept_name": "Viral sinusitis" },
+            { "condition_start_date": "2016-01-25", "condition_end_date": "2016-02-05", "concept_name": "Acute viral pharyngitis" },
+            { "condition_start_date": "2019-10-20", "condition_end_date": "2019-11-03", "concept_name": "Streptococcal sore throat" }
+        ], 
+        "response_easy_language": "Sure, I'd be happy to explain these medical conditions in simpler terms:\n\n1. **Acute Myeloid Leukemia (AML)**: This is a type of cancer that affects the bone marrow and blood cells. In AML, the bone marrow makes abnormal myeloblasts (a type of white blood cell), red blood cells, or platelets. These abnormal cells do not function properly and can build up in the bone marrow and bloodstream, crowding out healthy cells. This condition was diagnosed on March 31, 2015.\n\n2. **Febrile Neutropenia**: This is a serious complication of cancer treatment where the patient has a low white blood cell count (neutropenia) and a fever. White blood cells help the body fight infections, so having too few can increase the risk of infection. This condition was also diagnosed on March 31, 2015.\n\n3. **Bacteremia**: This is a medical condition characterized by the presence of bacteria in the bloodstream. It can occur spontaneously, or as a result of an infection or a medical procedure. Bacteremia can lead to serious infections elsewhere in the body if not treated promptly. This condition was diagnosed on March 31, 2015.\n\n4. **Viral Sinusitis**: This is an inflammation or swelling of the tissue lining the sinuses, caused by a viral infection. It's often associated with a cold and may be accompanied by a runny nose, nasal congestion, and facial pain. This condition was diagnosed from October 29 to November 6, 2015.\n\n5. **Acute Viral Pharyngitis**: This is a viral infection that causes inflammation and swelling of the pharynx (the back of the throat). Symptoms often include a sore throat, difficulty swallowing, and fever. This condition was diagnosed from January 25 to February 5, 2016.\n\n6. **Streptococcal Sore Throat**: Also known as strep throat, this is a bacterial infection that causes inflammation and pain in the throat. It's caused by group A Streptococcus bacteria. Other symptoms can include fever, swollen lymph nodes, and white patches on the tonsils. This condition was diagnosed from October 20 to November 3, 2019."
+    },
+    {
+        "question": "Can you provide information about the patient with the number 1481698356816854382 between the first of November, 2015, and the first of January, 2020?", 
+        "response_sql": [
+            { "condition_start_date": "2016-07-24", "condition_end_date": "2016-08-16", "concept_name": "Viral sinusitis" },
+            { "condition_start_date": "2016-07-22", "condition_end_date": "2018-12-07", "concept_name": "Stress" },
+            { "condition_start_date": "2018-03-21", "condition_end_date": "2018-04-10", "concept_name": "Acute bronchitis" },
+            { "condition_start_date": "2019-12-13", "condition_end_date": "None", "concept_name": "Retinopathy due to type 2 diabetes mellitus" },
+            { "condition_start_date": "2019-12-13", "condition_end_date": "2020-06-12", "concept_name": "Stress" }
+        ], 
+        "response_easy_language": "Sure, I'd be happy to help explain these medical conditions in simpler terms:\n\n1. **Viral Sinusitis**: This is an infection of the sinuses, which are air-filled spaces in your skull, caused by a virus. It started on July 24, 2016, and ended on August 16, 2016. Symptoms often include nasal congestion, facial pain, and a thick, yellow or greenish discharge from the nose.\n\n2. **Stress**: This is a state of mental or emotional strain or tension, which started on July 22, 2016, and ended on December 7, 2018. It can be caused by various factors such as work, personal relationships, or financial problems.\n\n3. **Acute Bronchitis**: This is a short-term infection of the airways in the lungs, causing them to become inflamed and produce excess mucus. It started on March 21, 2018, and ended on April 10, 2018. Symptoms often include a cough, production of mucus, fatigue, and shortness of breath.\n\n4. **Retinopathy due to Type 2 Diabetes Mellitus**: This is damage to the retina, the light-sensitive tissue at the back of the eye, caused by complications of type 2 diabetes. It started on December 13, 2019, and according to the data, it is still ongoing. This condition can lead to vision loss or blindness if not properly managed.\n\n5. **Stress**: This is another period of emotional or mental strain, which started on December 13, 2019, and ended on June 12, 2020. The symptoms can be similar to the previous stress period."
+    },
+    {
+        "question": "I need details about the patient identified by 889381963201066879 for the period from the first of November, 2018, to the thirty-first of December, 2022.",
+        "response_sql": [
+            {
+                "condition_start_date": "2019-01-08",
+                "condition_end_date": "2019-02-05",
+                "concept_name": "Stress"
+            },
+            {
+                "condition_start_date": "2019-04-09",
+                "condition_end_date": "None",
+                "concept_name": "Myocardial infarction"
+            }
+        ],
+        "response_easy_language": "Sure, I'd be happy to help explain these medical conditions in simpler terms:\n\n1. **Stress**: This is a state of mental or emotional strain or tension resulting from adverse or demanding circumstances. It's something that many people experience at some point in their lives. According to the information provided, this period of stress started on January 8, 2019, and ended on February 5, 2019.\n\n2. **Myocardial Infarction**: This is a medical term for a heart attack, which occurs when blood flow decreases or stops to a part of the heart, causing damage to the heart muscle. This serious condition started on April 9, 2019, and unfortunately, there is no end date provided. This means that the effects of the heart attack are likely still ongoing or have led to a chronic condition. As always, it's crucial to consult with a healthcare professional for personalized advice and treatment options."
+}]
