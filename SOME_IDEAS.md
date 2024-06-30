@@ -24,3 +24,4 @@
 ## Models
 
 - https://huggingface.co/projecte-aina/aguila-7b
+- https://huggingface.co/HMHMlee/BioLinkBERT-base-finetuned-ner
