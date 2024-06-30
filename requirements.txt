@@ -2,3 +2,8 @@ pandas==2.0.3
 numpy==1.24.3
 PyYAML==6.0
 psycopg2-binary==2.9.9
+
+streamlit==1.36.0
+vanna==0.0.30
+python-dotenv==1.0.1
+mistralai==0.4.1
